@@ -53,6 +53,8 @@ Then install any necessary packages or other dependencies I have (not required a
 
 * [See here](http://algorithmicbotany.org/papers/abop/abop.pdf) for *The Algorithmic Beauty of Plants* by [Przemyslaw Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz) (director of the Computer Graphics group studying Fibonacci numbers and modeling using grammars) and [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer) (a theoretical biologist studying sequence generators). This textbook is based off Lindenmayer's original notes discusssing the theory and practice of Lindenmayer (L-)Systems for modeling plant growth.  It provides much of the theoretical material from which I will be drawing from.
 
+* [See here](https://www.cs.tau.ac.il/~nachum/papers/survey-draft.pdf) for further theory behind abstract rewrite systems.  It gives a link to Chapter 6 of the *Handbook of Theoretical Computer Science* by Nachum Dershowitz and Jean-Pierre Jouannaud.  
+
 * [See here] for my sequence of articles on Rewriting Systems from the perspectives of theoretical biology, artificial life, physics, mathematics, computation, linguistics, and philosophy.
 
 
