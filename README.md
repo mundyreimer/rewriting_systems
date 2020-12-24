@@ -1,4 +1,4 @@
-Rewrite Systems
+# Rewrite Systems
 
 ---
 
