@@ -1,4 +1,8 @@
-# TL;DR
+Rewrite Systems
+
+---
+
+## TL;DR
 Collection of personal experiments centered around applying *Rewrite Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
 [See here] for my sequence of articles on *Rewriting Systems*.
