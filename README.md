@@ -1,7 +1,5 @@
 # Rewrite Systems
 
----
-
 ## TL;DR
 Collection of personal experiments centered around applying *Rewrite Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
@@ -16,8 +14,6 @@ Collection of personal experiments centered around applying *Rewrite Systems* to
 * Symbolic Dynamics
 * Graph-based CA
 * Evolutionary Algorithms
-
----
 
 ## Setup
 
@@ -48,8 +44,6 @@ Then install any necessary packages or other dependencies I have (not required a
 ### 2) Troubleshooting:
 
 * [See here](https://github.com/pyenv/pyenv/issues/1643) if you are having trouble with Tkinter running on your device.  
-
----
 
 ## Sources:
 
