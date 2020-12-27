@@ -3,7 +3,7 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewrite Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
-[See here] for my sequence of articles on *Rewriting Systems*.
+[See here](https://mundyreimer.github.io/blog/lindenmayer-grammars-0) for my sequence of articles on *Rewriting Systems*.
 
 (Overlapping) topics to be covered: 
 * Artificial Life + Chemistry
@@ -55,6 +55,6 @@ Then install any necessary packages or other dependencies I have (not required a
 
 * [See here](https://www.cs.tau.ac.il/~nachum/papers/survey-draft.pdf) for further theory behind abstract rewrite systems.  It gives a link to Chapter 6 of the *Handbook of Theoretical Computer Science* by Nachum Dershowitz and Jean-Pierre Jouannaud.  
 
-* [See here] for my sequence of articles on Rewriting Systems from the perspectives of theoretical biology, artificial life, physics, mathematics, computation, linguistics, and philosophy.
+* [See here](https://mundyreimer.github.io/blog/lindenmayer-grammars-0) for my sequence of articles on Rewriting Systems from the perspectives of theoretical biology, artificial life, physics, mathematics, computation, linguistics, and philosophy.
 
 
