@@ -3,7 +3,7 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
-![minkowski_island](/images/n2_island.gif = 300x300)
+<img src="/images/n2_island.gif" width="400" height="400">
 
 ---
 Check out my sequence of articles I wrote on *Rewriting Systems*:
