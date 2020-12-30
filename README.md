@@ -3,7 +3,7 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
-![minkowski_island](/images/n2_island.gif)
+![minkowski_island](/images/n2_island.gif = 300x300)
 
 ---
 Check out my sequence of articles I wrote on *Rewriting Systems*:
@@ -73,9 +73,9 @@ Running the *\*.py* script on the command line will prompt the user for at least
 
 ### Example Output:
 
-![generated_fern](/images/generate_fern1.gif)
+![generated_fern](/images/generate_fern1.gif = 300x300)
 
-![generated_fern](/images/fern3.png)
+![generated_fern](/images/fern3.png = 300x300)
 
 ## Sources:
 
