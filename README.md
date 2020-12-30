@@ -3,8 +3,9 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
-<img src="/images/n2_island.gif" width="400" height="400">
-
+<p align="center">
+<img src="/images/n2_island.gif" width="100" height="100">
+</p>
 ---
 Check out my sequence of articles I wrote on *Rewriting Systems*:
 * [An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
