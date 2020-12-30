@@ -22,7 +22,7 @@ Check out my sequence of articles I wrote on *Rewriting Systems*:
 
 ## Setup
 
-For my graphics I chose to use [Turtle](https://docs.python.org/3/library/turtle.html) because it already comes pre-packaged with Python and follows the general "[batteries included](https://protocolostomy.com/2010/01/22/what-batteries-included-means/)" philosophy.  Because of this, all you have to do is copy the specific *\*.py* script you'd like and run that.  See *Sources* section below for other suitable packages.  
+For my graphics I chose to use [Turtle](https://docs.python.org/3/library/turtle.html) because it already comes pre-packaged with Python and follows the general "[batteries included](https://protocolostomy.com/2010/01/22/what-batteries-included-means/)" philosophy.  Because of this, all you have to do is copy the specific *\*.py* script you'd like and run that.  See *Sources* section below for other suitable plotting packages.  
 
 Alternatively, if are a bit more advanced in your software skills, you might want to consider following the steps below.  This will become more relevant when I start incorporating more 3rd party packages.
 
@@ -88,7 +88,7 @@ Running the *\*.py* script on the command line will prompt the user for at least
 
 * [See here](https://realpython.com/beginners-guide-python-turtle/) for a beginner's tutorial on how to use `Turtle` in Python.  I chose Turtle since it is a pre-installed Python library and follows the general "*batteries included*" philosophy. 
 
-* [See here](https://hackaday.io/project/11721-python-l-system) for an alternative to the Turtle package called *PyGame*.  This should be more familiar to graphics/game programmers but is still low-level enough for beginners.  Note that if your examples aren't running and you are using a recent version of Mac OS X, it might be a problem with the interaction between *pygame* and *virtualenv*. More [details here](https://github.com/pygame/pygame/issues/203#issuecomment-365798598).  Other plotting packages options to choose among are [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), and [Processing.py](https://py.processing.org/).  
+* [See here](https://hackaday.io/project/11721-python-l-system) for an alternative to the Turtle package called *PyGame*.  This should be more familiar to graphics/game programmers but is still low-level enough for beginners.  Note that if your examples aren't running and you are using a recent version of Mac OS X, it might be a problem with the interaction between *pygame* and *virtualenv*. More [details here](https://github.com/pygame/pygame/issues/203#issuecomment-365798598).  Other plotting package options to choose among are [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), and [Processing.py](https://py.processing.org/).  
 
 * Much of the rendering template I used was built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook linked above and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).  
 
