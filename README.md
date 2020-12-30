@@ -3,6 +3,8 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
+![minkowski_island](/images/n2_island.gif)
+
 ---
 Check out my sequence of articles I wrote on *Rewriting Systems*:
 * [An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
@@ -24,6 +26,7 @@ For my graphics I chose to use [Turtle](https://docs.python.org/3/library/turtle
 ### 1) Installing dependencies:
 
 If just using venv, create a [virtual environment](https://towardsdatascience.com/virtual-environments-104c62d48c54) named `venv_linden` using:
+
 `python3 -m venv venv_linden`
 
 If additionally using [Pyenv](https://github.com/pyenv/pyenv) to manage and easily switch between multiple Python versions (recommended practice), create a virtual environment using:
@@ -41,6 +44,7 @@ Then activate the environment:
 The latter command creates a .python-version file in your current working directory from which you run `eval "$(pyenv virtualenv-init -)"` in your environment, allowing the environment to automatically activate upon entry into that directory (nifty!) Alternatively, you can manually activate your Pyenv environments using `pyenv activate <environment_name>` and deactivate using `pyenv deactivate`.
 
 Then install any necessary packages or other dependencies I have (not required as of 12/23/20, but might need to do later down the road): 
+
 `pip install -r requirements.txt`
 
 ### 2) Troubleshooting:
@@ -49,7 +53,8 @@ Then install any necessary packages or other dependencies I have (not required a
 ## Running the Code
 
 ### Example User Input:
-Running the *\*.py* script will prompt the user for at least 6 inputs.  See my linked tutorials I wrote above for an in-depth explanation.  Below is an example of what you can input to get something that eventually outputs a fern-looking plant:
+Running the *\*.py* script on the command line will prompt the user for at least 6 inputs.  See my linked tutorials I wrote above for an in-depth explanation.  Below is an example of what you can input to get something that eventually outputs a fern-looking plant:
+
 `Enter starting axiom (w): X`
 
 `Enter production rule #1 (Input 0 if no more rules): X->F[+X][-X]FX`
@@ -67,6 +72,9 @@ Running the *\*.py* script will prompt the user for at least 6 inputs.  See my l
 `Enter drawing angle: 25.7`
 
 ### Example Output:
+
+![generated_fern](/images/generate_fern1.gif)
+
 ![generated_fern](/images/fern3.png)
 
 ## Sources:
