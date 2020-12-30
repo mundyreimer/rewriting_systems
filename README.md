@@ -3,6 +3,8 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
+![minkowski_island](/images/n2_island.gif)
+
 ---
 Check out my sequence of articles I wrote on *Rewriting Systems*:
 * [An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
@@ -70,6 +72,9 @@ Running the *\*.py* script on the command line will prompt the user for at least
 `Enter drawing angle: 25.7`
 
 ### Example Output:
+
+![generated_fern](/images/generate_fern1.gif)
+
 ![generated_fern](/images/fern3.png)
 
 ## Sources:
