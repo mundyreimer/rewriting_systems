@@ -3,10 +3,10 @@
 ## TL;DR
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
-<p align="center">
 <img src="/images/n2_island.gif" width="250" height="250">
-</p>
+
 ---
+
 Check out my sequence of articles I wrote on *Rewriting Systems*:
 * [An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 * [Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1)
@@ -74,13 +74,9 @@ Running the *\*.py* script on the command line will prompt the user for at least
 
 ### Example Output:
 
-<p align="center">
-<img src="/images/generate_fern1.gif" width="250" height="250">
-</p>
+<img src="/images/generate_fern1.gif" width="300" height="300">
 
-<p align="center">
-<img src="/images/fern3.png" width="250" height="250">
-</p>
+<img src="/images/fern3.png" width="300" height="300">
 
 ## Sources:
 
