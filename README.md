@@ -1,7 +1,7 @@
 # Rewriting Systems
 
 ## TL;DR
-Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
+Collection of personal experiments on applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
 ---
 
