@@ -4,7 +4,7 @@
 Collection of personal experiments centered around applying *Rewriting Systems* to the study of artificial biological systems, computation, linguistics, and physics.
 
 <p align="center">
-<img src="/images/n2_island.gif" width="100" height="100">
+<img src="/images/n2_island.gif" width="250" height="250">
 </p>
 ---
 Check out my sequence of articles I wrote on *Rewriting Systems*:
@@ -74,9 +74,13 @@ Running the *\*.py* script on the command line will prompt the user for at least
 
 ### Example Output:
 
-![generated_fern](/images/generate_fern1.gif = 300x300)
+<p align="center">
+<img src="/images/generate_fern1.gif" width="250" height="250">
+</p>
 
-![generated_fern](/images/fern3.png = 300x300)
+<p align="center">
+<img src="/images/fern3.png" width="250" height="250">
+</p>
 
 ## Sources:
 
