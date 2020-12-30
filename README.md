@@ -22,7 +22,9 @@ Check out my sequence of articles I wrote on *Rewriting Systems*:
 
 ## Setup
 
-For my graphics I chose to use [Turtle](https://docs.python.org/3/library/turtle.html) because it already comes pre-packaged with Python and follows the general "[batteries included](https://protocolostomy.com/2010/01/22/what-batteries-included-means/)" philosophy.  Because of this, all you have to do is copy the specific *\*.py* script you'd like and run that.  Alternatively, if are a bit more advanced in your software skills, you might want to consider following the steps below.  This will become more relevant when I start incorporating more 3rd party packages.
+For my graphics I chose to use [Turtle](https://docs.python.org/3/library/turtle.html) because it already comes pre-packaged with Python and follows the general "[batteries included](https://protocolostomy.com/2010/01/22/what-batteries-included-means/)" philosophy.  Because of this, all you have to do is copy the specific *\*.py* script you'd like and run that.  
+
+Alternatively, if are a bit more advanced in your software skills, you might want to consider following the steps below.  This will become more relevant when I start incorporating more 3rd party packages.
 
 ### 1) Installing dependencies:
 
