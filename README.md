@@ -7,7 +7,7 @@ Collection of personal experiments on applying *Rewriting Systems* to the study 
 
 Check out my sequence of articles I wrote on *Rewriting Systems*:
 * [An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
-* [Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1)
+* [Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1)🌿
 
 (Overlapping) topics to be covered: 
 * Artificial Life + Chemistry
