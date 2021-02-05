@@ -92,7 +92,7 @@ Running the *\*.py* script on the command line will prompt the user for at least
 
 * Much of the rendering template I used was built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook linked above and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).
 
-* Also feel free to also check out [my book review](https://www.goodreads.com/review/show/3726733180) of *The Algorithmic Beauty of Plants* on Goodreads!  It seriously is such a gosh darn beautiful book 🌹🌿
+* Also feel free to also check out [my book review](https://www.goodreads.com/review/show/3726733180) of *The Algorithmic Beauty of Plants* on Goodreads (or on my [blog here](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants))!  It seriously is such a gosh darn beautiful book 🌹🌿
 
 
 
